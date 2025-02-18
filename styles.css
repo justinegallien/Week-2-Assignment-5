@@ -1,0 +1,41 @@
+.hero {   height: auto;
+    width: 1050px;
+
+}
+.flex {display: flex;}
+
+ul {
+    list-style: none;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.padding {
+    padding: 2rem
+}
+
+.gap-5 {
+    gap: 5rem;
+}
+
+.navgap {
+    gap: 20px;
+}
+
+.subheading {
+    font-family: monospace;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.form {
+    display: flex;
+        flex-direction: column;
+    width: 700px;
+    padding: 12px 20px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: rgba(255, 231, 254, 0.747);
+}
